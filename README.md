@@ -10,10 +10,6 @@ This project is a simple calculator application implemented in HTML, CSS, and Ja
 - Mode button to switch between light and dark themes.
 - Drag and drop functionality to move the calculator window.
 
-## Screenshots
-
-[Include screenshots here if available]
-
 ## Getting Started
 
 To use the calculator, simply open the `index.html` file in your web browser.
